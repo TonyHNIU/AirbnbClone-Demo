@@ -5,7 +5,7 @@
 - Run on IOS or Android projects in emulator
 
 ## Login details
-- email: web@imandy.ie
+- email: web@imtony.ie
 - password: 12345
 
 ## Dependencies
