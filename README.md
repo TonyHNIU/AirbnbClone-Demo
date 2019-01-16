@@ -1,6 +1,4 @@
-# react-native-airbnb-clone
-AirBnB mobile app clone using React Native & Redux
-
+# AirbnbClone-Demo
 ## How to use
 - Clone
 - Run `npm install` in the terminal
