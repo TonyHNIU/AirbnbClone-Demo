@@ -14,7 +14,6 @@ Profile Container
         </Text>
       </View>
     );
-    
   }
 }
 
