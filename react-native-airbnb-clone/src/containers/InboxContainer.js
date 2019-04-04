@@ -14,7 +14,6 @@ Inbox Container
         </Text>
       </View>
     );
-  
   }
 }
 
