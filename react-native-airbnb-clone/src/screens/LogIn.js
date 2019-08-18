@@ -128,7 +128,7 @@ class LogIn extends Component {
         <View style={styles.scrollViewWrapper}>
           <ScrollView style={styles.scrollView}>
             <Text style={styles.loginHeader}>
-Log In
+ Log In
             </Text>
             <InputField
               labelText="EMAIL ADDRESS"
